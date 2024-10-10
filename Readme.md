@@ -17,14 +17,14 @@ Ejemplos de sistemas:
 ## Cronograma:
 4 entregas y la defensa
 
-1) Entrega 1: 31/10 Resumen de proyecto
+### Entrega 1: Resumen de proyecto
 Llenar formulario con:
 + Miembros del grupo
 + nombre del grupo
 + descripción del proyecto
 + funcionalidades
 
-### Ejemplo:
+#### Ejemplo:
 
 Descripción: Control de stock de un almacén:
 Datos:
@@ -50,22 +50,22 @@ Funcionalidades
 - consultar precio
 - hacer una venta (agrega la venta hecha con el monto y decrementar el stock del producto)
 
-2) Entrega 2: 7/11 Entrega preliminar:
+### Entrega 2: Entrega preliminar:
 + archivo zip con lo que se tenga hasta el momento
 + Documento contando que se tiene y que falta implementar (estado de situación del proyecto)
 - que anda
 - que no anda
 - que falta implementar
 
-3) Entrega 3: 14/11 Código fuente y documentación del proyecto
+### Entrega 3: Código fuente y documentación del proyecto
 - Codigo fuente
 - Documento de explicacion Readme con modo de uso
 
-4) Entrega 4 : Viernes 17
+### Entrega 4 : Video
 - Video de 10 minutos presentando el proyecto (link al video)
 * opcional entregar presentacion si usan durante el video
 
-5) Semana 4: Defensa orales (Miercoles 22/11 y/o jueves 23/11)
+### Defensa orales
 
 # Recomentaciones para la implementación:
 Entrega 1
